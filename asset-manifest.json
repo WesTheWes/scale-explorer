@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/scale-explorer/static/css/main.425e6ff5.css",
-    "main.js": "/scale-explorer/static/js/main.b1c54a74.js",
+    "main.css": "/scale-explorer/static/css/main.6dfe4996.css",
+    "main.js": "/scale-explorer/static/js/main.e8dbaa07.js",
     "static/js/787.90bbe84c.chunk.js": "/scale-explorer/static/js/787.90bbe84c.chunk.js",
     "index.html": "/scale-explorer/index.html",
-    "main.425e6ff5.css.map": "/scale-explorer/static/css/main.425e6ff5.css.map",
-    "main.b1c54a74.js.map": "/scale-explorer/static/js/main.b1c54a74.js.map",
+    "main.6dfe4996.css.map": "/scale-explorer/static/css/main.6dfe4996.css.map",
+    "main.e8dbaa07.js.map": "/scale-explorer/static/js/main.e8dbaa07.js.map",
     "787.90bbe84c.chunk.js.map": "/scale-explorer/static/js/787.90bbe84c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.425e6ff5.css",
-    "static/js/main.b1c54a74.js"
+    "static/css/main.6dfe4996.css",
+    "static/js/main.e8dbaa07.js"
   ]
 }
